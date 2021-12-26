@@ -1,6 +1,7 @@
 # BrokenLinkChecker
 A small tool to check if your browser's favorite are still alive.
 
+```txt
  ▄▄▄▄    ██▓    ▄████▄ 
     ▓█████▄ ▓██▒   ▒██▀ ▀█ 
     ▒██▒ ▄██▒██░   ▒▓█    ▄
@@ -12,7 +13,7 @@ A small tool to check if your browser's favorite are still alive.
     ░ ░          ░  ░ ░     
 
     (Broken Link Checker)
-
+```
 
 ## Installation
 
